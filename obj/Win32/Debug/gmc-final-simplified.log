@@ -1,0 +1,15 @@
+﻿  Grid.cpp
+  ofApp.cpp
+c:\users\bluet87\downloads\of_v0.11.0_vs2017_release\apps\myapps\gmc-final-simplified-stable\src\ofapp.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\bluet87\downloads\of_v0.11.0_vs2017_release\apps\myapps\gmc-final-simplified-stable\src\ofapp.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\bluet87\downloads\of_v0.11.0_vs2017_release\apps\myapps\gmc-final-simplified-stable\src\grid.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\bluet87\downloads\of_v0.11.0_vs2017_release\apps\myapps\gmc-final-simplified-stable\src\grid.cpp(32): warning C4018: '<': signed/unsigned mismatch
+     Creating library bin\gmc-final-simplified_debug.lib and object bin\gmc-final-simplified_debug.exp
+  gmc-final-simplified.vcxproj -> C:\Users\bluet87\Downloads\of_v0.11.0_vs2017_release\apps\myApps\gmc-final-simplified-stable\bin\gmc-final-simplified_debug.exe
+  
+  	                   2	C:\Users\bluet87\Downloads\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\bluet87\Downloads\of_v0.11.0_vs2017_release\apps\myApps\gmc-final-simplified-stable\bin\FreeImage.dll
+  
+  	                   1	C:\Users\bluet87\Downloads\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\bluet87\Downloads\of_v0.11.0_vs2017_release\apps\myApps\gmc-final-simplified-stable\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\bluet87\Downloads\of_v0.11.0_vs2017_release\apps\myApps\gmc-final-simplified-stable\bin\fmodexL.dll

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFatLines\src\ofxFatLine.cpp">
+      <Filter>addons\ofxFatLines\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxFatLines\src\sincosineLut.cpp">
+      <Filter>addons\ofxFatLines\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Grid.cpp" />
+    <ClCompile Include="src\Line.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFatLines">
+      <UniqueIdentifier>{5045FCA0-8B53-3E79-519B-EA05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFatLines\src">
+      <UniqueIdentifier>{6C0F38F6-0BF2-BAFB-EC80-2A2F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFatLines\src\ofxFatLine.h">
+      <Filter>addons\ofxFatLines\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxFatLines\src\sincosineLut.h">
+      <Filter>addons\ofxFatLines\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Grid.h" />
+    <ClInclude Include="src\line.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="addons.make" />
+  </ItemGroup>
+</Project>
